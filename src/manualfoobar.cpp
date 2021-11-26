@@ -1,8 +1,8 @@
 #include <iostream>
 #include <string>
 
-#include "foo/foo.h"
-#include "bar/bar.h"
+#include "manualfoo/manualfoo.h"
+#include "manualbar/manualbar.h"
 
 int main(int argc, char* argv[])
 {
